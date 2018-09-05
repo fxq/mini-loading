@@ -1,7 +1,7 @@
 {
   "name": "mini-loading",
   "description": "vue加载中",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "xiaoqing.fan",
   "main":"dist/vue-loading.js",
   "license": "MIT",
